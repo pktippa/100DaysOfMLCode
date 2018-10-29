@@ -42,3 +42,63 @@ Food:
 
 drink lots of water
 
+Paleo diet.
+
+3 times a week full body workout with weights
+
+Good night sleep
+
+try to isolate from the world before going to sleep
+
+keeping phone in airplane mode 2 hours before sleep.
+
+one 24 hour period of disconnected per week
+
+
+2. Optimize the learning environment
+
+dedicate Clean work environment like office separated from where you sleep or eat.
+
+dont have a cluttered desk.
+
+working in a library or coffee shop, why not?
+
+
+3. Personalized learning path
+
+Update the curriculum if you feel the way.
+
+twitter
+
+@100DaysOfMLCode
+
+
+4. Prioritising
+
+
+Create TODO lists
+
+for
+
+day
+
+week
+
+month
+
+year
+
+
+![image](../images/make_the_most_of_learning_time.png)
+
+
+5. Be an active learner
+
+
+FAST framework
+
+Forget, Activate, State, Teach
+
+
+Forget three things
+
